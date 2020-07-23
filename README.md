@@ -1,4 +1,4 @@
-![bermarte](https://github.com/bermarte/bermarte/blob/master/bermarte.webp?raw=true)
+<img align="right" src="https://github.com/bermarte/bermarte/blob/master/bermarte.webp">
 <!--
 
 **bermarte/bermarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
