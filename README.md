@@ -1,8 +1,9 @@
-### Hi there 👋
+![bermarte](https://github.com/bermarte/bermarte/blob/master/bermarte.webp?raw=true)
 
 <!--
-**bermarte/bermarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**bermarte/bermarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 [![HitCount](http://hits.dwyl.com/bermarte/bermarte.svg)](http://hits.dwyl.com/bermarte/)
 
 Here are some ideas to get you started:
