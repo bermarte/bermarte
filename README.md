@@ -2,8 +2,8 @@
 
 
 
-<a href="https://www.deviantart.com/bermarte"><img alt="Website" src="https://img.shields.io/website?down_message=down&label=website&logo=deviantart&up_color=green&up_message=art&url=https://www.deviantart.com/bermarte"></a>
-<a href="https://www.youtube.com/channel/FUCDzbI9k3mfPx1xPMrJY5IMA"><img alt="Website" src="https://img.shields.io/website?down_message=down&label=website&logo=youtube&up_color=green&up_message=youtube&url=https://www.youtube.com/channel/FUCDzbI9k3mfPx1xPMrJY5IMA"></a>
+<a href="https://www.deviantart.com/bermarte"><img alt="deviantart" src="https://img.shields.io/website?down_message=down&label=website&logo=deviantart&up_color=green&up_message=art&url=https://www.deviantart.com/bermarte"></a>
+<a href="https://www.youtube.com/channel/UCDzbI9k3mfPx1xPMrJY5IMA"><img alt="youtube" src="https://img.shields.io/website?down_message=down&label=website&logo=youtube&up_color=green&up_message=youtube&url=https://www.youtube.com/channel/UCDzbI9k3mfPx1xPMrJY5IMA"></a>
 <!--
 
 **bermarte/bermarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
