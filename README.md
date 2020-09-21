@@ -5,7 +5,8 @@
 <a href="https://www.deviantart.com/bermarte"><img alt="deviantart" src="https://img.shields.io/website?down_message=down&label=website&logo=deviantart&up_color=green&up_message=art&url=https://www.deviantart.com/bermarte"></a>
 <a href="https://www.youtube.com/channel/UCDzbI9k3mfPx1xPMrJY5IMA"><img alt="youtube" src="https://img.shields.io/website?down_message=down&label=website&logo=youtube&up_color=green&up_message=youtube&url=https://www.youtube.com/channel/UCDzbI9k3mfPx1xPMrJY5IMA"></a>
 <a href="https://soundcloud.com/cardiosalma"><img alt="soundcloud" src="https://img.shields.io/website?down_message=down&label=website&up_color=green&up_message=sound&logo=soundcloud&logoColor=orange&url=https://soundcloud.com/cardiosalma"></a>
-  <img alt="HYF logo" width="50" src="https://cdn.jsdelivr.net/gh/bermarte/bermarte/hyf.png" style="padding-top: 20px;">
+  <img alt="HYF logo" width="50" src="https://cdn.jsdelivr.net/gh/bermarte/bermarte/hyf.png" style="margin-top: 10px;
+    display:inline-block;">
 </div>
 <!--
 
