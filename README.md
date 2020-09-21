@@ -1,6 +1,5 @@
 <img align="right" src="https://github.com/bermarte/bermarte/blob/master/bermarte.webp">  
-
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fgoogle.com)
+<img alt="Website" src="https://img.shields.io/website?url=https://google.com">
 
 
 
