@@ -1,6 +1,7 @@
 <img align="right" src="https://github.com/bermarte/bermarte/blob/master/bermarte.webp">  
 
-[![caz cc](https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg)](https://www.deviantart.com/bermarte)
+![Website](https://img.shields.io/website?down_message=down&label=website&logo=deviantart&up_color=green&up_message=art&url=https%3A%2F%2Fwww.deviantart.com%2Fbermarte)
+![Website](https://img.shields.io/website?logo=youtube&up_color=green&up_message=youtube&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCDzbI9k3mfPx1xPMrJY5IMA)
 
 
 <!--
