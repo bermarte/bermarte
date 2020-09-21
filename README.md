@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/channel/UCDzbI9k3mfPx1xPMrJY5IMA"><img alt="youtube" src="https://img.shields.io/website?down_message=down&label=website&logo=youtube&up_color=green&up_message=youtube&url=https://www.youtube.com/channel/UCDzbI9k3mfPx1xPMrJY5IMA"></a>
 <a href="https://soundcloud.com/cardiosalma"><img alt="soundcloud" src="https://img.shields.io/website?down_message=down&label=website&up_color=green&up_message=sound&logo=soundcloud&logoColor=orange&url=https://soundcloud.com/cardiosalma"></a>
 </div>
-<img alt="HYF logo" src="https://cdn.jsdelivr.net/gh/bermarte/bermarte/hyf.png">
+<img alt="HYF logo" width="55" src="https://cdn.jsdelivr.net/gh/bermarte/bermarte/hyf.png">
 <!--
 
 **bermarte/bermarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
