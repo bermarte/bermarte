@@ -1,8 +1,12 @@
 <img align="right" src="https://github.com/bermarte/bermarte/blob/master/bermarte.webp">
+
+![bermarte's github stats](https://github-readme-stats.vercel.app/api?username=bermarte&show_icons=false&hide_border=true?count_private=true&hide_rank=true&show_owner=true&line_height=14&hide_title=true&layout=compact&text_color=798080)
+
 <!--
 
 **bermarte/bermarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
+
 [![HitCount](http://hits.dwyl.com/bermarte/bermarte.svg)](http://hits.dwyl.com/bermarte/)
 
 Here are some ideas to get you started:
