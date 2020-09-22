@@ -1,17 +1,17 @@
 <img align="right" src="https://github.com/bermarte/bermarte/blob/master/bermarte.webp">  
-
+<a href="test.html" onclick="return ! window.open(this.href);">Open in a new window</a>
 
 <div align="center">
     <kbd>
         <kbd>
-            <a href="https://hackyourfuture.be" target"_blank">
+            <a href="https://hackyourfuture.be">
                 <img alt="HYF logo" width="50" src="https://cdn.jsdelivr.net/gh/bermarte/bermarte/hyf.png" style="margin-top: 10px;
     display:inline-block;">
             </a>
         </kbd>
-        <a href="https://www.deviantart.com/bermarte"  target"_blank">
+        <a href="https://www.deviantart.com/bermarte">
             <img alt="deviantart" src="https://img.shields.io/website?down_message=down&label=website&logo=deviantart&up_color=green&up_message=art&url=https://www.deviantart.com/bermarte"></a>
-        <a href="https://www.youtube.com/channel/UCDzbI9k3mfPx1xPMrJY5IMA"  target"_blank">
+        <a href="https://www.youtube.com/channel/UCDzbI9k3mfPx1xPMrJY5IMA">
             <img alt="youtube" src="https://img.shields.io/website?down_message=down&label=website&logo=youtube&up_color=green&up_message=youtube&url=https://www.youtube.com/channel/UCDzbI9k3mfPx1xPMrJY5IMA"></a>
         <a href="https://soundcloud.com/cardiosalma">
             <img alt="soundcloud" src="https://img.shields.io/website?down_message=down&label=website&up_color=green&up_message=sound&logo=soundcloud&logoColor=orange&url=https://soundcloud.com/cardiosalma"></a>
