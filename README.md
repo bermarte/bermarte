@@ -1,10 +1,10 @@
-<img align="right" src="https://github.com/bermarte/bermarte/blob/master/bermarte.webp">  
+<img align="right" src="https://github.com/bermarte/bermarte/blob/master/bermarte.webp">
 <div align="center">
+    <img alt="spacer"  height="80" src="https://cdn.jsdelivr.net/gh/bermarte/bermarte/spacer.png">
     <kbd>
         <kbd>
             <a href="https://hackyourfuture.be">
-                <img alt="HYF logo" width="50" src="https://cdn.jsdelivr.net/gh/bermarte/bermarte/hyf.png" style="margin-top: 10px;
-    display:inline-block;">
+                <img alt="HYF logo" width="50" src="https://cdn.jsdelivr.net/gh/bermarte/bermarte/hyf.png">
             </a>
         </kbd>
         <a href="https://codepen.io/Bermarte">
