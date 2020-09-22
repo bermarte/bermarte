@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/bermarte/bermarte/blob/master/bermarte.webp">
 <div align="center">
-    <img alt="spacer"  height="100" src="https://cdn.jsdelivr.net/gh/bermarte/bermarte/spacer.png">
+    <img alt="spacer"  height="80" src="https://cdn.jsdelivr.net/gh/bermarte/bermarte/spacer.png">
     <kbd>
         <kbd>
             <a href="https://hackyourfuture.be">
