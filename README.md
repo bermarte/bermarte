@@ -8,7 +8,7 @@
             </a>
         </kbd>
         <a href="https://codepen.io/Bermarte">
-            <img alt="deviantart" src="https://img.shields.io/website?down_message=down&label=website&logo=codepen&up_color=green&up_message=codepen&url=https://codepen.io/Bermarte"></a>
+            <img alt="codepen" src="https://img.shields.io/website?down_message=down&label=website&logo=codepen&up_color=green&up_message=codepen&url=https://codepen.io/Bermarte"></a>
         <a href="https://www.deviantart.com/bermarte">
             <img alt="deviantart" src="https://img.shields.io/website?down_message=down&label=website&logo=deviantart&up_color=green&up_message=art&url=https://www.deviantart.com/bermarte"></a>
         <a href="https://www.youtube.com/channel/UCDzbI9k3mfPx1xPMrJY5IMA">
